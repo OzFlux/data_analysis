@@ -1,3 +1,8 @@
+'''
+Script to plot ogives from EddyPro output folder.
+Daniel Metzen, 23/07/2019
+'''
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
